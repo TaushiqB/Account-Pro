@@ -1,10 +1,4 @@
-/*
-========== DBS311 (NCC) Group Assignment 2 ==========
-Group Members:
-1) Aryan Khurana => 145282216
-2) Bhanu Rakshita Paul => 143428217
-3) Shivkumar Virendranath Raval => 168146215
-*/
+
 
 ------------------------
 1. spLoanDetailsSelect
